@@ -1,4 +1,4 @@
-## 💰 CashFlowTracker - Track your finances with ease.
+## 💰 Cash Flow Tracker - Track your finances with ease.
 A modern, intuitive personal finance application that helps you track expenses, manage budgets, and achieve your financial goals with powerful analytics and beautiful visualizations.
 
 ## 🖥️ Home Page Preview
